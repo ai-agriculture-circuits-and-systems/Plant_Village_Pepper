@@ -1,0 +1,55 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 2.0,
+      "source": "plant_village_classification",
+      "original_filename": "JR_HL 5815.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 6889503713,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (50).JPG",
+      "size": 13081,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "JR_HL 5815.JPG",
+      "pvc_filename": "1c665f14-938a-4563-8613-031a2cb04453___JR_HL 5815.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5978366723,
+      "image_id": 6889503713,
+      "category_id": 2000000019,
+      "segmentation": [],
+      "area": 1341,
+      "bbox": [
+        9,
+        71,
+        147,
+        162
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000019,
+      "name": "healthy",
+      "supercategory": "Pepper,_bell"
+    }
+  ]
+}

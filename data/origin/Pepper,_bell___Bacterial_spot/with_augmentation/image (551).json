@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 7215325911,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (551).JPG",
+      "size": 19558,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9676135913,
+      "image_id": 7215325911,
+      "category_id": 1000000018,
+      "segmentation": [],
+      "area": 37589,
+      "bbox": [
+        0,
+        0,
+        250,
+        256
+      ]
+    },
+    {
+      "id": 6912697913,
+      "image_id": 7215325911,
+      "category_id": 1000000018,
+      "segmentation": [],
+      "area": 170,
+      "bbox": [
+        100,
+        155,
+        28,
+        25
+      ]
+    },
+    {
+      "id": 3076160913,
+      "image_id": 7215325911,
+      "category_id": 1000000018,
+      "segmentation": [],
+      "area": 120,
+      "bbox": [
+        203,
+        0,
+        21,
+        20
+      ]
+    },
+    {
+      "id": 8877629913,
+      "image_id": 7215325911,
+      "category_id": 1000000018,
+      "segmentation": [],
+      "area": 252,
+      "bbox": [
+        0,
+        0,
+        16,
+        16
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000018,
+      "name": "Bacterial_spot",
+      "supercategory": "Pepper,_bell"
+    }
+  ]
+}

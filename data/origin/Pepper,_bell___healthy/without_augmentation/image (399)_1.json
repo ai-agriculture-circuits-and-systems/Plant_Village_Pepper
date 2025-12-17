@@ -1,0 +1,120 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 116.0,
+      "source": "plant_village_classification",
+      "original_filename": "JR_HL 8414.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 5231446373,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (399).JPG",
+      "size": 11520,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "JR_HL 8414.JPG",
+      "pvc_filename": "13e593a4-59cf-4271-be0e-e2761634015d___JR_HL 8414.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7034665384,
+      "image_id": 5231446373,
+      "category_id": 2000000019,
+      "segmentation": [],
+      "area": 2010,
+      "bbox": [
+        160,
+        0,
+        86,
+        211
+      ]
+    },
+    {
+      "id": 8820108384,
+      "image_id": 5231446373,
+      "category_id": 2000000019,
+      "segmentation": [],
+      "area": 4904,
+      "bbox": [
+        24,
+        0,
+        125,
+        141
+      ]
+    },
+    {
+      "id": 4222454384,
+      "image_id": 5231446373,
+      "category_id": 2000000019,
+      "segmentation": [],
+      "area": 132,
+      "bbox": [
+        126,
+        68,
+        12,
+        34
+      ]
+    },
+    {
+      "id": 4581761384,
+      "image_id": 5231446373,
+      "category_id": 2000000019,
+      "segmentation": [],
+      "area": 175,
+      "bbox": [
+        119,
+        69,
+        11,
+        31
+      ]
+    },
+    {
+      "id": 8531651384,
+      "image_id": 5231446373,
+      "category_id": 2000000019,
+      "segmentation": [],
+      "area": 103,
+      "bbox": [
+        146,
+        54,
+        23,
+        21
+      ]
+    },
+    {
+      "id": 5066875384,
+      "image_id": 5231446373,
+      "category_id": 2000000019,
+      "segmentation": [],
+      "area": 103,
+      "bbox": [
+        72,
+        0,
+        26,
+        30
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000019,
+      "name": "healthy",
+      "supercategory": "Pepper,_bell"
+    }
+  ]
+}

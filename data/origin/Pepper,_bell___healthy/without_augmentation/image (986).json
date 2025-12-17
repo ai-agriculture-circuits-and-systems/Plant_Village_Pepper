@@ -1,0 +1,94 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 147.0,
+      "source": "plant_village_classification",
+      "original_filename": "JR_HL 8700.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 2148045099,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (986).JPG",
+      "size": 17890,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "JR_HL 8700.JPG",
+      "pvc_filename": "ac4bb042-f8bc-42cc-91b4-76d4287bdc25___JR_HL 8700.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4587236110,
+      "image_id": 2148045099,
+      "category_id": 2000000019,
+      "segmentation": [],
+      "area": 115,
+      "bbox": [
+        152,
+        213,
+        19,
+        28
+      ]
+    },
+    {
+      "id": 8273637110,
+      "image_id": 2148045099,
+      "category_id": 2000000019,
+      "segmentation": [],
+      "area": 215,
+      "bbox": [
+        217,
+        95,
+        18,
+        74
+      ]
+    },
+    {
+      "id": 9856745110,
+      "image_id": 2148045099,
+      "category_id": 2000000019,
+      "segmentation": [],
+      "area": 249,
+      "bbox": [
+        244,
+        36,
+        12,
+        33
+      ]
+    },
+    {
+      "id": 5690688110,
+      "image_id": 2148045099,
+      "category_id": 2000000019,
+      "segmentation": [],
+      "area": 578,
+      "bbox": [
+        85,
+        0,
+        93,
+        41
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000019,
+      "name": "healthy",
+      "supercategory": "Pepper,_bell"
+    }
+  ]
+}

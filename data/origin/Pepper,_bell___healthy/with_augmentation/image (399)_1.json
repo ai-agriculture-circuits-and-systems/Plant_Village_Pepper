@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5813106652,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (399).JPG",
+      "size": 11520,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4415805653,
+      "image_id": 5813106652,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 2010,
+      "bbox": [
+        160,
+        0,
+        86,
+        211
+      ]
+    },
+    {
+      "id": 4217226653,
+      "image_id": 5813106652,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 4904,
+      "bbox": [
+        24,
+        0,
+        125,
+        141
+      ]
+    },
+    {
+      "id": 4070595653,
+      "image_id": 5813106652,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 132,
+      "bbox": [
+        126,
+        68,
+        12,
+        34
+      ]
+    },
+    {
+      "id": 5193784653,
+      "image_id": 5813106652,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 175,
+      "bbox": [
+        119,
+        69,
+        11,
+        31
+      ]
+    },
+    {
+      "id": 6599223653,
+      "image_id": 5813106652,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 103,
+      "bbox": [
+        146,
+        54,
+        23,
+        21
+      ]
+    },
+    {
+      "id": 2142834653,
+      "image_id": 5813106652,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 103,
+      "bbox": [
+        72,
+        0,
+        26,
+        30
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000019,
+      "name": "healthy",
+      "supercategory": "Pepper,_bell"
+    }
+  ]
+}

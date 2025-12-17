@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2931736787,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (940).JPG",
+      "size": 19512,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8268717789,
+      "image_id": 2931736787,
+      "category_id": 1000000018,
+      "segmentation": [],
+      "area": 1676,
+      "bbox": [
+        66,
+        176,
+        108,
+        75
+      ]
+    },
+    {
+      "id": 1680551789,
+      "image_id": 2931736787,
+      "category_id": 1000000018,
+      "segmentation": [],
+      "area": 112,
+      "bbox": [
+        149,
+        168,
+        16,
+        13
+      ]
+    },
+    {
+      "id": 2880834789,
+      "image_id": 2931736787,
+      "category_id": 1000000018,
+      "segmentation": [],
+      "area": 23892,
+      "bbox": [
+        0,
+        0,
+        256,
+        176
+      ]
+    },
+    {
+      "id": 5185282789,
+      "image_id": 2931736787,
+      "category_id": 1000000018,
+      "segmentation": [],
+      "area": 124,
+      "bbox": [
+        111,
+        163,
+        22,
+        9
+      ]
+    },
+    {
+      "id": 4463091789,
+      "image_id": 2931736787,
+      "category_id": 1000000018,
+      "segmentation": [],
+      "area": 125,
+      "bbox": [
+        95,
+        99,
+        16,
+        12
+      ]
+    },
+    {
+      "id": 9639017789,
+      "image_id": 2931736787,
+      "category_id": 1000000018,
+      "segmentation": [],
+      "area": 957,
+      "bbox": [
+        72,
+        52,
+        67,
+        49
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000018,
+      "name": "Bacterial_spot",
+      "supercategory": "Pepper,_bell"
+    }
+  ]
+}

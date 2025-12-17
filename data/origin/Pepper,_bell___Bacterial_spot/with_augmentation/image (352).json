@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6503545923,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (352).JPG",
+      "size": 17107,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 9601734925,
+      "image_id": 6503545923,
+      "category_id": 1000000018,
+      "segmentation": [],
+      "area": 192,
+      "bbox": [
+        148,
+        219,
+        45,
+        32
+      ]
+    },
+    {
+      "id": 1710699925,
+      "image_id": 6503545923,
+      "category_id": 1000000018,
+      "segmentation": [],
+      "area": 308,
+      "bbox": [
+        84,
+        196,
+        34,
+        21
+      ]
+    },
+    {
+      "id": 5832759925,
+      "image_id": 6503545923,
+      "category_id": 1000000018,
+      "segmentation": [],
+      "area": 909,
+      "bbox": [
+        17,
+        130,
+        77,
+        61
+      ]
+    },
+    {
+      "id": 8357211925,
+      "image_id": 6503545923,
+      "category_id": 1000000018,
+      "segmentation": [],
+      "area": 184,
+      "bbox": [
+        65,
+        104,
+        22,
+        12
+      ]
+    },
+    {
+      "id": 9756754925,
+      "image_id": 6503545923,
+      "category_id": 1000000018,
+      "segmentation": [],
+      "area": 364,
+      "bbox": [
+        8,
+        77,
+        31,
+        34
+      ]
+    },
+    {
+      "id": 7163499925,
+      "image_id": 6503545923,
+      "category_id": 1000000018,
+      "segmentation": [],
+      "area": 336,
+      "bbox": [
+        31,
+        0,
+        70,
+        69
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000018,
+      "name": "Bacterial_spot",
+      "supercategory": "Pepper,_bell"
+    }
+  ]
+}

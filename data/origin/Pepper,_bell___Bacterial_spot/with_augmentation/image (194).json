@@ -1,0 +1,152 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 5841423148,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (194).JPG",
+      "size": 19989,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2160685150,
+      "image_id": 5841423148,
+      "category_id": 1000000018,
+      "segmentation": [],
+      "area": 14313,
+      "bbox": [
+        74,
+        5,
+        170,
+        241
+      ]
+    },
+    {
+      "id": 8842022150,
+      "image_id": 5841423148,
+      "category_id": 1000000018,
+      "segmentation": [],
+      "area": 6102,
+      "bbox": [
+        16,
+        49,
+        122,
+        162
+      ]
+    },
+    {
+      "id": 5857921150,
+      "image_id": 5841423148,
+      "category_id": 1000000018,
+      "segmentation": [],
+      "area": 108,
+      "bbox": [
+        133,
+        138,
+        23,
+        13
+      ]
+    },
+    {
+      "id": 4163569150,
+      "image_id": 5841423148,
+      "category_id": 1000000018,
+      "segmentation": [],
+      "area": 133,
+      "bbox": [
+        132,
+        125,
+        19,
+        17
+      ]
+    },
+    {
+      "id": 4578148150,
+      "image_id": 5841423148,
+      "category_id": 1000000018,
+      "segmentation": [],
+      "area": 173,
+      "bbox": [
+        96,
+        115,
+        17,
+        21
+      ]
+    },
+    {
+      "id": 8093327150,
+      "image_id": 5841423148,
+      "category_id": 1000000018,
+      "segmentation": [],
+      "area": 275,
+      "bbox": [
+        79,
+        100,
+        28,
+        26
+      ]
+    },
+    {
+      "id": 7931529150,
+      "image_id": 5841423148,
+      "category_id": 1000000018,
+      "segmentation": [],
+      "area": 425,
+      "bbox": [
+        89,
+        65,
+        21,
+        36
+      ]
+    },
+    {
+      "id": 2506182150,
+      "image_id": 5841423148,
+      "category_id": 1000000018,
+      "segmentation": [],
+      "area": 218,
+      "bbox": [
+        106,
+        52,
+        23,
+        19
+      ]
+    },
+    {
+      "id": 4614945150,
+      "image_id": 5841423148,
+      "category_id": 1000000018,
+      "segmentation": [],
+      "area": 100,
+      "bbox": [
+        80,
+        7,
+        23,
+        19
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000018,
+      "name": "Bacterial_spot",
+      "supercategory": "Pepper,_bell"
+    }
+  ]
+}

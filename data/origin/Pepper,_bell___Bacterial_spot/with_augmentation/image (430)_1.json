@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6021167327,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (430).JPG",
+      "size": 14973,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4476449329,
+      "image_id": 6021167327,
+      "category_id": 1000000018,
+      "segmentation": [],
+      "area": 24306,
+      "bbox": [
+        4,
+        0,
+        252,
+        249
+      ]
+    },
+    {
+      "id": 7936492329,
+      "image_id": 6021167327,
+      "category_id": 1000000018,
+      "segmentation": [],
+      "area": 241,
+      "bbox": [
+        160,
+        82,
+        27,
+        12
+      ]
+    },
+    {
+      "id": 5057347329,
+      "image_id": 6021167327,
+      "category_id": 1000000018,
+      "segmentation": [],
+      "area": 365,
+      "bbox": [
+        13,
+        0,
+        38,
+        38
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000018,
+      "name": "Bacterial_spot",
+      "supercategory": "Pepper,_bell"
+    }
+  ]
+}
