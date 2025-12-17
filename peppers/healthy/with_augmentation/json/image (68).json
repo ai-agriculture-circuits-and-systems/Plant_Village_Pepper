@@ -1,0 +1,74 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 1055676913,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (68).JPG",
+      "size": 16266,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 3336603914,
+      "image_id": 1055676913,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 125,
+      "bbox": [
+        94,
+        208,
+        27,
+        25
+      ]
+    },
+    {
+      "id": 7340362914,
+      "image_id": 1055676913,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 437,
+      "bbox": [
+        12,
+        67,
+        54,
+        125
+      ]
+    },
+    {
+      "id": 3037016914,
+      "image_id": 1055676913,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 159,
+      "bbox": [
+        115,
+        3,
+        17,
+        35
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000019,
+      "name": "healthy",
+      "supercategory": "Pepper,_bell"
+    }
+  ]
+}

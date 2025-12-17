@@ -1,0 +1,87 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 6546893411,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (1057).JPG",
+      "size": 16278,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 5360902413,
+      "image_id": 6546893411,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 633,
+      "bbox": [
+        185,
+        126,
+        42,
+        83
+      ]
+    },
+    {
+      "id": 5136260413,
+      "image_id": 6546893411,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 1739,
+      "bbox": [
+        3,
+        35,
+        77,
+        171
+      ]
+    },
+    {
+      "id": 1846698413,
+      "image_id": 6546893411,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 1115,
+      "bbox": [
+        160,
+        5,
+        81,
+        82
+      ]
+    },
+    {
+      "id": 6454959413,
+      "image_id": 6546893411,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 374,
+      "bbox": [
+        82,
+        0,
+        36,
+        30
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000019,
+      "name": "healthy",
+      "supercategory": "Pepper,_bell"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 1.0,
+      "source": "plant_village_classification",
+      "original_filename": "NREC_B.Spot 1930_final_masked.jpg"
+    }
+  },
+  "images": [
+    {
+      "id": 8523022269,
+      "width": 256,
+      "height": 256,
+      "file_name": "9e49a6d8-11fa-4d46-9f2d-9580da511696___NREC_B.Spot 1930_final_masked.jpg",
+      "size": 10726,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "NREC_B.Spot 1930_final_masked.jpg",
+      "pvc_filename": "9e49a6d8-11fa-4d46-9f2d-9580da511696___NREC_B.Spot 1930_final_masked.jpg"
+    }
+  ],
+  "annotations": [],
+  "categories": [
+    {
+      "id": 2000000002,
+      "name": "bacterial_spot",
+      "supercategory": "Pepper"
+    }
+  ]
+}

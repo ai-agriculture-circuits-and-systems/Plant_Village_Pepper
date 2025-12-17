@@ -1,0 +1,139 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 4130546927,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (1383).JPG",
+      "size": 16458,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 7679830930,
+      "image_id": 4130546927,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 188,
+      "bbox": [
+        97,
+        225,
+        29,
+        15
+      ]
+    },
+    {
+      "id": 5259189930,
+      "image_id": 4130546927,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 202,
+      "bbox": [
+        142,
+        181,
+        45,
+        31
+      ]
+    },
+    {
+      "id": 3502964930,
+      "image_id": 4130546927,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 493,
+      "bbox": [
+        153,
+        130,
+        54,
+        53
+      ]
+    },
+    {
+      "id": 9871532930,
+      "image_id": 4130546927,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 384,
+      "bbox": [
+        208,
+        91,
+        32,
+        55
+      ]
+    },
+    {
+      "id": 4457659930,
+      "image_id": 4130546927,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 1050,
+      "bbox": [
+        16,
+        20,
+        123,
+        116
+      ]
+    },
+    {
+      "id": 9705172930,
+      "image_id": 4130546927,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 289,
+      "bbox": [
+        37,
+        104,
+        79,
+        25
+      ]
+    },
+    {
+      "id": 5110873930,
+      "image_id": 4130546927,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 211,
+      "bbox": [
+        182,
+        74,
+        40,
+        19
+      ]
+    },
+    {
+      "id": 8285133930,
+      "image_id": 4130546927,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 332,
+      "bbox": [
+        140,
+        8,
+        48,
+        38
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000019,
+      "name": "healthy",
+      "supercategory": "Pepper,_bell"
+    }
+  ]
+}

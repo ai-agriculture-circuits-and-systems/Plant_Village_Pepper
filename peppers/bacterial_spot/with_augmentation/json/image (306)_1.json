@@ -1,0 +1,94 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 3.0,
+      "source": "plant_village_classification",
+      "original_filename": "NREC_B.Spot 1794.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 9536816077,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (306).JPG",
+      "size": 19988,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "NREC_B.Spot 1794.JPG",
+      "pvc_filename": "51f564c9-28a3-4352-960c-9d88445d36d9___NREC_B.Spot 1794.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6728661085,
+      "image_id": 9536816077,
+      "category_id": 2000000018,
+      "segmentation": [],
+      "area": 23800,
+      "bbox": [
+        0,
+        0,
+        201,
+        256
+      ]
+    },
+    {
+      "id": 6982483085,
+      "image_id": 9536816077,
+      "category_id": 2000000018,
+      "segmentation": [],
+      "area": 105,
+      "bbox": [
+        189,
+        235,
+        17,
+        21
+      ]
+    },
+    {
+      "id": 7920001085,
+      "image_id": 9536816077,
+      "category_id": 2000000018,
+      "segmentation": [],
+      "area": 267,
+      "bbox": [
+        192,
+        97,
+        21,
+        33
+      ]
+    },
+    {
+      "id": 6061356085,
+      "image_id": 9536816077,
+      "category_id": 2000000018,
+      "segmentation": [],
+      "area": 113,
+      "bbox": [
+        130,
+        0,
+        7,
+        32
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000018,
+      "name": "Bacterial_spot",
+      "supercategory": "Pepper,_bell"
+    }
+  ]
+}

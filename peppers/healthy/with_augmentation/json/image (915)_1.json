@@ -1,0 +1,113 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 9537141980,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (915).JPG",
+      "size": 13593,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 4309240981,
+      "image_id": 9537141980,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 411,
+      "bbox": [
+        177,
+        145,
+        34,
+        74
+      ]
+    },
+    {
+      "id": 7848813981,
+      "image_id": 9537141980,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 636,
+      "bbox": [
+        20,
+        61,
+        45,
+        41
+      ]
+    },
+    {
+      "id": 6072312981,
+      "image_id": 9537141980,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 168,
+      "bbox": [
+        146,
+        46,
+        12,
+        27
+      ]
+    },
+    {
+      "id": 9006312981,
+      "image_id": 9537141980,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 268,
+      "bbox": [
+        74,
+        36,
+        65,
+        31
+      ]
+    },
+    {
+      "id": 4875150981,
+      "image_id": 9537141980,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 225,
+      "bbox": [
+        40,
+        38,
+        30,
+        19
+      ]
+    },
+    {
+      "id": 7646863981,
+      "image_id": 9537141980,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 252,
+      "bbox": [
+        95,
+        21,
+        43,
+        27
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000019,
+      "name": "healthy",
+      "supercategory": "Pepper,_bell"
+    }
+  ]
+}

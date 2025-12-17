@@ -1,0 +1,41 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": 1.0,
+      "source": "plant_village_classification",
+      "original_filename": "JR_HL 7749_1.JPG"
+    }
+  },
+  "images": [
+    {
+      "id": 4201751633,
+      "width": 256,
+      "height": 256,
+      "file_name": "d489c307-ff11-45f0-9ea2-1d8bb072a7e7___JR_HL 7749_1.JPG",
+      "size": 12238,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "JR_HL 7749_1.JPG",
+      "pvc_filename": "d489c307-ff11-45f0-9ea2-1d8bb072a7e7___JR_HL 7749_1.JPG"
+    }
+  ],
+  "annotations": [],
+  "categories": [
+    {
+      "id": 2000000001,
+      "name": "healthy",
+      "supercategory": "Pepper"
+    }
+  ]
+}

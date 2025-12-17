@@ -1,0 +1,222 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": "JR_23.0"
+    }
+  },
+  "images": [
+    {
+      "id": 6305304269,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (737).JPG",
+      "size": 25766,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "JR_B.Spot 3352.JPG",
+      "pvc_filename": "ba89789a-d506-48d5-964b-41f5815d46b1___JR_B.Spot 3352.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 8553951278,
+      "image_id": 6305304269,
+      "category_id": 2000000018,
+      "segmentation": [],
+      "area": 3746,
+      "bbox": [
+        52,
+        92,
+        204,
+        160
+      ]
+    },
+    {
+      "id": 9917901278,
+      "image_id": 6305304269,
+      "category_id": 2000000018,
+      "segmentation": [],
+      "area": 120,
+      "bbox": [
+        93,
+        177,
+        21,
+        15
+      ]
+    },
+    {
+      "id": 3118441278,
+      "image_id": 6305304269,
+      "category_id": 2000000018,
+      "segmentation": [],
+      "area": 211,
+      "bbox": [
+        72,
+        150,
+        41,
+        17
+      ]
+    },
+    {
+      "id": 3929060278,
+      "image_id": 6305304269,
+      "category_id": 2000000018,
+      "segmentation": [],
+      "area": 166,
+      "bbox": [
+        24,
+        136,
+        21,
+        22
+      ]
+    },
+    {
+      "id": 2518643278,
+      "image_id": 6305304269,
+      "category_id": 2000000018,
+      "segmentation": [],
+      "area": 201,
+      "bbox": [
+        105,
+        117,
+        23,
+        26
+      ]
+    },
+    {
+      "id": 5313408278,
+      "image_id": 6305304269,
+      "category_id": 2000000018,
+      "segmentation": [],
+      "area": 1298,
+      "bbox": [
+        11,
+        47,
+        88,
+        81
+      ]
+    },
+    {
+      "id": 8766124278,
+      "image_id": 6305304269,
+      "category_id": 2000000018,
+      "segmentation": [],
+      "area": 253,
+      "bbox": [
+        186,
+        108,
+        31,
+        12
+      ]
+    },
+    {
+      "id": 6865700278,
+      "image_id": 6305304269,
+      "category_id": 2000000018,
+      "segmentation": [],
+      "area": 171,
+      "bbox": [
+        112,
+        99,
+        18,
+        18
+      ]
+    },
+    {
+      "id": 7102048278,
+      "image_id": 6305304269,
+      "category_id": 2000000018,
+      "segmentation": [],
+      "area": 217,
+      "bbox": [
+        181,
+        91,
+        31,
+        12
+      ]
+    },
+    {
+      "id": 6016366278,
+      "image_id": 6305304269,
+      "category_id": 2000000018,
+      "segmentation": [],
+      "area": 217,
+      "bbox": [
+        66,
+        81,
+        30,
+        21
+      ]
+    },
+    {
+      "id": 9573312278,
+      "image_id": 6305304269,
+      "category_id": 2000000018,
+      "segmentation": [],
+      "area": 2503,
+      "bbox": [
+        65,
+        0,
+        90,
+        92
+      ]
+    },
+    {
+      "id": 1681639278,
+      "image_id": 6305304269,
+      "category_id": 2000000018,
+      "segmentation": [],
+      "area": 209,
+      "bbox": [
+        195,
+        74,
+        40,
+        13
+      ]
+    },
+    {
+      "id": 4190910278,
+      "image_id": 6305304269,
+      "category_id": 2000000018,
+      "segmentation": [],
+      "area": 171,
+      "bbox": [
+        144,
+        72,
+        39,
+        11
+      ]
+    },
+    {
+      "id": 1362537278,
+      "image_id": 6305304269,
+      "category_id": 2000000018,
+      "segmentation": [],
+      "area": 222,
+      "bbox": [
+        23,
+        32,
+        45,
+        32
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000018,
+      "name": "Bacterial_spot",
+      "supercategory": "Pepper,_bell"
+    }
+  ]
+}

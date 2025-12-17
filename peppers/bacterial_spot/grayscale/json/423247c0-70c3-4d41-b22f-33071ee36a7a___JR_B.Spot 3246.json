@@ -1,0 +1,105 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "no_augmentation",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    "leaf_info": {
+      "leaf_number": "JR_12.0"
+    }
+  },
+  "images": [
+    {
+      "id": 4883367413,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (585).JPG",
+      "size": 19627,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success",
+      "original_filename": "JR_B.Spot 3246.JPG",
+      "pvc_filename": "423247c0-70c3-4d41-b22f-33071ee36a7a___JR_B.Spot 3246.JPG"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 6770596420,
+      "image_id": 4883367413,
+      "category_id": 2000000018,
+      "segmentation": [],
+      "area": 13854,
+      "bbox": [
+        70,
+        0,
+        186,
+        248
+      ]
+    },
+    {
+      "id": 1707480420,
+      "image_id": 4883367413,
+      "category_id": 2000000018,
+      "segmentation": [],
+      "area": 333,
+      "bbox": [
+        108,
+        113,
+        26,
+        20
+      ]
+    },
+    {
+      "id": 1525210420,
+      "image_id": 4883367413,
+      "category_id": 2000000018,
+      "segmentation": [],
+      "area": 628,
+      "bbox": [
+        6,
+        79,
+        31,
+        43
+      ]
+    },
+    {
+      "id": 9705220420,
+      "image_id": 4883367413,
+      "category_id": 2000000018,
+      "segmentation": [],
+      "area": 318,
+      "bbox": [
+        85,
+        31,
+        21,
+        39
+      ]
+    },
+    {
+      "id": 2978893420,
+      "image_id": 4883367413,
+      "category_id": 2000000018,
+      "segmentation": [],
+      "area": 109,
+      "bbox": [
+        40,
+        55,
+        15,
+        9
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 2000000018,
+      "name": "Bacterial_spot",
+      "supercategory": "Pepper,_bell"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "info": {
+    "description": "data",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "search engine",
+    "source": "augmented",
+    "license": {
+      "name": "Creative Commons Attribution 4.0 International",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "images": [
+    {
+      "id": 2171946561,
+      "width": 256,
+      "height": 256,
+      "file_name": "image (820).JPG",
+      "size": 13310,
+      "format": "JPG",
+      "url": "",
+      "hash": "",
+      "status": "success"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 2046478562,
+      "image_id": 2171946561,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 729,
+      "bbox": [
+        94,
+        205,
+        50,
+        41
+      ]
+    },
+    {
+      "id": 1262639562,
+      "image_id": 2171946561,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 177,
+      "bbox": [
+        59,
+        181,
+        13,
+        35
+      ]
+    },
+    {
+      "id": 6853116562,
+      "image_id": 2171946561,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 153,
+      "bbox": [
+        34,
+        127,
+        14,
+        24
+      ]
+    },
+    {
+      "id": 3348305562,
+      "image_id": 2171946561,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 2756,
+      "bbox": [
+        1,
+        0,
+        175,
+        108
+      ]
+    },
+    {
+      "id": 1416694562,
+      "image_id": 2171946561,
+      "category_id": 1000000019,
+      "segmentation": [],
+      "area": 392,
+      "bbox": [
+        124,
+        34,
+        36,
+        37
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1000000019,
+      "name": "healthy",
+      "supercategory": "Pepper,_bell"
+    }
+  ]
+}
